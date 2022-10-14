@@ -1,7 +1,5 @@
  
-<img align="right" width="350" src="https://i.imgur.com/ugWb6BU.gif" />
-
-```java
+```C++
 "C","C++","Java","Asm","Python","Go"
 ```
  
