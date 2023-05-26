@@ -12,6 +12,6 @@
 ![](https://count.getloli.com/get/@rogxo?theme=gelbooru)
 
 # 💻 Environment
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Kali](https://img.shields.io/badge/Kali-2fb0da?style=flat-square&logo=kali&logoColor=ffffff)
+![Kali](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=kali&logoColor=ffffff)
