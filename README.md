@@ -3,6 +3,7 @@
 ```C++
 "C","C++","Java","Asm","Python","Go"
 ```
+Anyway constexpr is the magic of cplusplus.
  
 # Stats 
 ![](https://github-readme-stats.vercel.app/api?username=rogxo&show_icons=true&include_all_commits=true&theme=radical)
